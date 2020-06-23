@@ -9,4 +9,3 @@ Run spec for making baseline screenshots:
 Run spec for comparing with baseline:
 - npm run local-prod-teachers-visual-regression
 ------------------
-# wdio-test
