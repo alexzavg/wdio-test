@@ -1,0 +1,18 @@
+{
+  "envs": {
+    "test": {
+      "params": {
+        "someParam": {
+          "someValue": "value_test"
+        }
+      }
+    },
+    "prod": {
+      "params": {
+        "someParam": {
+          "someValue": "value_prod"
+        }
+      }
+    }
+  }
+}
